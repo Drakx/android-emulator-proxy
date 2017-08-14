@@ -10,7 +10,7 @@ import sys
 #import subprocess 
 
 PORT = 8080
-HOST = "10.10.130.91"
+HOST = "10.10.130.62"
 SDK_PATH = ""
 
 # Stackoverflow for this
